@@ -68,8 +68,8 @@ What are key components?
 - Single-page website layout.
 - Responsive design using CSS flexbox.
 - Product carousel for displaying items.
-- What technology used and how it is used?
 
+What technology were used and how it is used?
 - HTML: Structures the content.
 - CSS: Styles the page and makes it responsive.
 - Google Fonts: Enhances readability
